@@ -1,0 +1,11 @@
+value1 = input("Enter first value = ")
+value2 = input("Enter second value = ")
+value3 = input("Enter third value = ")
+value4 = input("Enter fourth value = ")
+value5 = input("Enter fifth value = ")
+
+print(f' First value: {value1} type: {type(value1)}')
+print(f' Second value: {value2} type: {type(value2)}')
+print(f' Third value: {value3} type: {type(value3)}')
+print(f' Fourth value: {value4} type: {type(value4)}')
+print(f' Fifth value: {value5} type: {type(value5)}')
